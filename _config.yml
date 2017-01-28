@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Odd Life Style
 description: テック、ガジェット、音楽、ライフスタイルについて語るPodcastです。
+email: astromech12000+oddlife@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 relative_url: http://odd-life.tokyo
 # twitter_username:
@@ -24,6 +25,10 @@ relative_url: http://odd-life.tokyo
 markdown: kramdown
 theme: minima
 permalink: /:title
+artwork: /images/artwork.jpg
+language: ja
+author: OddLife
+keywords: tech,technology,oddlife,web,develop,software,philosophy,music,japan
 gems:
   - jekyll-feed
 exclude:

@@ -4,6 +4,9 @@ title: "ep001"
 description: "情報過多、エシカルファッション など"
 date: 2017-01-28 21:50:00 +0900
 categories: podcast
+duration: "01:25:32"
+audio_url: "http://podcasts-1.feedpress.co/16428/1.mp3"
+audio_file_size: "61588919"
 ---
 Charlie & Taku
 
