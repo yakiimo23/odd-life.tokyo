@@ -18,7 +18,7 @@
 locale                   : "ja"
 title                    : "Odd Life Style"
 title_separator          : "-"
-name                     : "Odd Life"
+name                     : "Odd Life Style"
 description              : "テック、ガジェット、音楽、ライフスタイルについて語るPodcastです。"
 url                      : http://odd-life.tokyo
 baseurl                  : # the subpath of your site, e.g. "/blog"
