@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "ep001"
 description: "情報過多、エシカルファッション など"
 date: 2017-01-28 21:50:00 +0900
@@ -7,7 +7,6 @@ categories: podcast
 duration: "01:25:32"
 audio_url: "http://feeds.soundcloud.com/stream/304967124-oddlife-tokyo-ep001.mp3"
 audio_file_size: "61588919"
+track: "304967124"
 ---
 Charlie & Taku
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/304948113&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "2: Mystery circle of my calves"
 description: "写メ、コミュニケーション技術、マリオラン など"
 date: 2017-02-11 17:00:00 +0900
@@ -7,6 +7,7 @@ categories: podcast
 duration: "01:53:05"
 audio_url: "http://feeds.soundcloud.com/stream/307186119-oddlife-tokyo-2-mystery-circle-of-my-calves.mp3"
 audio_file_size: "81421187"
+track: "307186119"
 ---
 Charlie & Taku
 
@@ -17,5 +18,3 @@ Charlie & Taku
 - [ニンテンドークラシックミニ](https://topics.nintendo.co.jp/c/article/d2923b54-8552-11e6-9b38-063b7ac45a6d.html)
 - [2016年に最も収益を挙げたアプリはSpotify、LINE、Netflix](http://jp.techcrunch.com/2017/01/14/20170113spotify-netflix-line-pandora-hbo-now-top-the-list-of-2016s-biggest-apps-by-revenue/)
 - [みどりのほしぼし](http://www.obokaidem.com/jp/midorinohoshiboshi/)
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307186119&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
