@@ -19,7 +19,7 @@ locale                   : "ja"
 title                    : "Odd Life Style"
 title_separator          : "-"
 name                     : "Odd Life Style"
-description              : "テック、ガジェット、音楽、ライフスタイルについて語るPodcastです。"
+description              : "世の中の奇妙な出来事、ライフスタイル、テック、音楽について語るPodcastです。"
 url                      : http://odd-life.tokyo
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yakiimo23/odd-life.tokyo" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
