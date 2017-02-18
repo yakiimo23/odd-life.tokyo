@@ -19,6 +19,7 @@
       <itunes:email>{{ site.author.email }}</itunes:email>
     </itunes:owner>
     <itunes:image href="{{ site.url }}/images/artwork.jpg" />
+    <itunes:category text="Society &amp; Culture">
     <itunes:category text="Technology"/>
     <itunes:category text="Arts &amp; Entertainment"/>
     <itunes:category text="Music"/>
