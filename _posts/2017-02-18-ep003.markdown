@@ -1,0 +1,20 @@
+---
+layout: single
+title: "3: Escape from a car crash"
+description: "深海生物の汚染、6時間労働、幽体離脱など"
+date: 2017-02-18 20:00:00 +0900
+duration: "01:48:20"
+audio_url: "http://feeds.soundcloud.com/stream/308347317-oddlife-tokyo-3-out-of-body-experience.mp3"
+audio_file_size: "78004998"
+track: "308347317"
+---
+Charlie & Taku
+
+- [深海１万メートルの生物に汚染物質　マリアナ海溝で調査](http://www.asahi.com/articles/ASK2F3GXCK2FUBQU002.html)
+- [「8時間労働」から「6時間労働」に変更した結果、人は本当に幸せになれるのか？](http://gigazine.net/news/20170213-six-hour-work/)
+- [慢性的睡眠不足は免疫機能を低下させる、最適な睡眠時間は何時間？](http://gigazine.net/news/20170201-chronic-sleep-deprivation-immune-system/)
+- [うるう秒](https://ja.wikipedia.org/wiki/閏秒)
+- [原子時計](https://ja.wikipedia.org/wiki/原子時計)
+- 明晰夢
+- 幽体離脱
+- [8年で40cm沈下＆5cm傾斜した58階建てのタワーマンションは調査の結果「傾いているが安全に住める」](http://gigazine.net/news/20170212-sunk-tilted-tower-is-safe/)
