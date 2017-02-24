@@ -1,0 +1,25 @@
+---
+layout: single
+title: "4: Nihonium forever"
+description: "村上春樹、地球型惑星発見、スパモン教など"
+date: 2017-02-23 20:00:00 +0900
+duration: "01:35:30"
+audio_url: "http://feeds.soundcloud.com/stream/309274150-oddlife-tokyo-ep004.mp3"
+audio_file_size: "68761413"
+track: "309274150"
+---
+Charlie & Taku
+
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [村上春樹氏の新作長編「騎士団長殺し」](http://www.asahi.com/articles/ASK2N55KTK2NOIPE02H.html)
+- [ラーメン専門 こむらさき](http://www.kagoshimakomurasaki.com)
+- [NASA、7つの地球型惑星を発見。すべてに水が存在の可能性](http://japanese.engadget.com/2017/02/22/nasa-trappist-1-7/)
+- [ふしぎの海のナディア](http://www6.nhk.or.jp/anime/program/detail.html?i=nadia)
+- インテリジェント・デザイン
+- [nihonium](http://www.nishina.riken.jp/113/)
+- [空飛ぶスパゲッティ・モンスター教](http://www.huffingtonpost.jp/2015/11/19/flying-spaghetti-monster_n_8599312.html)
+- [宗教の三要素](http://abukuma.cocolog-nifty.com/blog/2006/10/post_9fef.html)
+- [10 Claims Of Physical Evidence For Reincarnation](http://listverse.com/2014/12/30/10-claims-of-physical-evidence-for-reincarnation/)
+- 太陽暦
