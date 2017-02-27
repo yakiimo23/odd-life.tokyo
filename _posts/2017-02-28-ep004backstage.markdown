@@ -1,0 +1,15 @@
+---
+layout: single
+title: "BackStage 4: Let's read aloud"
+description: "より良いPodcast Life"
+date: 2017-02-28 00:45:00 +0900
+duration: "00:25:36"
+audio_url: "http://feeds.soundcloud.com/stream/309800433-oddlife-tokyo-backstage-4-lets-read-aloud.mp3"
+audio_file_size: "18442992"
+track: "309800433"
+---
+Charlie & Taku
+
+Twitter ハッシュタグ #oddlifetokyo
+
+Podcastをより良くするためにはどうしたらいいかを話しました。
