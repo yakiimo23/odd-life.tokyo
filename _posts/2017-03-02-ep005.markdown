@@ -1,0 +1,21 @@
+---
+layout: single
+title: "5: Different people, different things"
+description: "ソーシャルメディアの現状・プロモーション、スマホアプリの通知、Find my iPhoneなど"
+date: 2017-03-02 10:00:00 +0900
+duration: "01:10:12"
+audio_url: "http://feeds.soundcloud.com/stream/310141560-oddlife-tokyo-5-different-people-different-things.mp3"
+audio_file_size: "50547901"
+track: "310141560"
+---
+Charlie & Taku
+
+Twitter ハッシュタグ #oddlifetokyo
+
+- ソーシャルメディア
+- ソーシャルメディアでのプロモーション
+- Podcastの認知度
+- [TBSラジオクラウド](https://radiocloud.jp)
+- スマホアプリの通知
+- Apple Watch
+- Find my iPhone
