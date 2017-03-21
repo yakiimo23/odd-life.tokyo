@@ -1,0 +1,23 @@
+---
+layout: single
+title: "7: The Terain"
+description: "ZELDA、YOHJI YAMAMOTO、日光東照宮など"
+date: 2017-03-20 13:00:00 +0900
+duration: "01:13:03"
+audio_url: "http://feeds.soundcloud.com/stream/313626747-oddlife-tokyo-7-terain.mp3"
+audio_file_size: "52597363"
+track: "313626747"
+---
+Charlie & Taku
+ZELDA、YOHJI YAMAMOTO、日光東照宮などについて話しました。
+
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [THE ACOUSTICS](http://theacoustics.jp)
+- [ゼルダの伝説 ブレス オブ ザ ワイルド](https://www.nintendo.co.jp/zelda/)
+- [YOHJI YAMAMOTO](http://www.yohjiyamamoto.co.jp)
+- 日光 東照宮
+- [餃子フェス](https://www.gyo-zafes.jp)
+- [メガネのハマヤ](http://www.meganehamaya.biz)
+- [掌](http://www.neuve-a.net/POKERFACE/shop/c/c30040040/)
