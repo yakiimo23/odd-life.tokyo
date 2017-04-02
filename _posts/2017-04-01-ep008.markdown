@@ -1,0 +1,30 @@
+---
+layout: single
+title: "8: Have Matsuya for lunch"
+description: "YouTube広告、BLUE GIANT、Netflixなど"
+date: 2017-04-01 13:00:00 +0900
+duration: "01:15:34"
+audio_url: "http://feeds.soundcloud.com/stream/315657365-oddlife-tokyo-8-have-matsuya-for-lunch.mp3"
+audio_file_size: "52597363"
+track: "315657365"
+---
+Charlie & Taku
+YouTube広告、BLUE GIANT、Netflixなどについて話しました。
+
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [YouTube広告主の離反が止まらない](http://markethack.net/archives/52039766.html)
+- [Snapchat Discorver](https://support.snapchat.com/en-US/a/discover-how-to)
+- [Snapchat deserves all the credit](https://techcrunch.com/2016/08/02/silicon-copy/)
+- [Amazing in Motion - SWARM](https://www.youtube.com/watch?v=uj0v1BgzUdc)
+- [BLUE GIANT](http://bluegiant.jp)
+- [パラゴン](https://www.facebook.com/kushikinoparagon/)
+- [JBL Paragon](http://audio-heritage.jp/JBL/speaker/paragon.html)
+- [現金もSuicaも時代遅れ？ スマホで注文・決済する「イノベーション自販機」が首都圏20駅に設置](http://japanese.engadget.com/2017/03/14/suica-20/)
+- [acure pass](http://www.acure-fun.net/cp/acurepass/present01/)
+- [山本耀司。モードの記録。 モードの意味を変えた山本耀司の足跡を探して。](https://www.amazon.co.jp/山本耀司%E3%80%82モードの記録%E3%80%82-モードの意味を変えた山本耀司の足跡を探して%E3%80%82-文化出版局/dp/4579304462)
+- [iOS 10.3](http://www.appps.jp/259431/)
+- [Apple File System とは](https://ischool.co.jp/2017-03-26/)
+- [PlayStationでNetflixを視聴する](https://help.netflix.com/ja/node/23888)
+- [NieR : Automata](http://www.jp.square-enix.com/nierautomata/)
