@@ -1,0 +1,35 @@
+---
+layout: single
+title: "9: Bic Mc Big MacBook Pro"
+description: "GHOST IN THE SHELL、飛蚊症、スタバでMacなど"
+date: 2017-04-09 02:30:00 +0900
+duration: "01:43:21"
+audio_url: "http://feeds.soundcloud.com/stream/316735649-oddlife-tokyo-9-bic-mc-big-macbook-pro.mp3"
+audio_file_size: "74422043"
+track: "316735649"
+---
+Charlie & Taku
+GHOST IN THE SHELL、飛蚊症、スタバでMacなどについて話しました。
+
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [GHOST IN THE SHELL](http://ghostshell.jp)
+- [IMAX](https://ja.wikipedia.org/wiki/IMAX)
+- [エル・ファニング](https://ja.wikipedia.org/wiki/エル・ファニング)
+- [トランスフォーマー／最後の騎士王](https://www.youtube.com/watch?v=iwrFb_lSxCg)
+- [ビーストウォーズ20周年特設サイト](http://www.takaratomy.co.jp/products/tfbw20th/)
+- [WAR!WAR! STOP IT](https://www.amazon.co.jp/WAR-STOP-下町兄弟/dp/B00005ERIQ)
+- [「攻殻機動隊」新作アニメ制作が決定、監督は「STAND ALONE COMPLEX」の神山健治＆「アップルシード」の荒牧伸志](http://gigazine.net/news/20170407-new-ghost-in-the-shell/)
+- [【超朗報】エヴァ新作『シン・エヴァンゲリオン劇場版：Ⅱ』がついに発進！ ネットの声「まじですか…」「泣きそう」](http://rocketnews24.com/2017/04/06/884740/)
+- [ちょまどさんがMicrosoftエバンジェリストに！C#腐女子のプログラミングライフとは](https://codeiq.jp/magazine/2016/03/39334/)
+- [YouTube広告主の離反が止まらない](http://markethack.net/archives/52039766.html)
+- [YouTube、視聴1万回未満のチャンネルは広告禁止](https://japan.cnet.com/article/35099423/)
+- [YouTube Red](https://www.youtube.com/red)
+- [飛蚊症](https://ja.wikipedia.org/wiki/飛蚊症)
+- [乱視](https://ja.wikipedia.org/wiki/乱視)
+- [満席のスタバでドヤ顔してMacいじってる人に言い放ったおじさんの一言に反響](http://www.danshihack.com/2017/04/07/junp/starbucks-ojisan.html)
+- [蔦屋家電](http://real.tsite.jp/futakotamagawa/)
+- [カラス族](http://history.fashion-press.net/hiroshimachic.htm)
+- [iPad Pro - Wordで、できることが広がる - Apple](https://www.youtube.com/watch?v=DXbhygKYnSk)
+- [Office for Mac](https://products.office.com/ja-jp/mac/microsoft-office-for-mac)
