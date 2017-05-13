@@ -1,0 +1,47 @@
+---
+layout: single
+title: "10: Japanese Music Talking"
+description: "音楽話"
+date: 2017-05-14 00:30:00 +0900
+duration: "01:19:32"
+audio_url: "http://feeds.soundcloud.com/stream/322427372-oddlife-tokyo-10-japanese-music-talking.mp3"
+audio_file_size: "57268998"
+track: "322427372"
+---
+Charlie & Taku
+たまには音楽の話をしてみました。
+
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [Pinegrove](https://pinegrove.bandcamp.com)
+- [JUDY AND MARY](http://www.sonymusic.co.jp/artist/JudyAndMary/)
+- [東京事変](http://www.tokyojihen.com)
+- [ZAZEN BOYS](http://www.mukaishutoku.com/zazenboys.html)
+- [Gotch & The Good New Times](http://gotch.info)
+- [The Chainsmokers](https://www.thechainsmokers.com)
+- [ソフトバンク CM SUPER STUDENT](https://www.youtube.com/watch?v=Ry6XF_OLqrA)
+- [ゼルダの伝説 ブレスオブザワイルド](https://www.nintendo.co.jp/zelda/)
+- [青葉市子 マホロボシヤ](https://www.amazon.co.jp/dp/B01L7BHX50/ref=cm_sw_r_cp_ep_dp_LBVkybRDY32DY)
+- [KUDANZ](http://www.kudanz.com)
+- [DUSTIN WONG](http://www.artuniongroup.co.jp/plancha/top/artists/dustin-wong/)
+- [Keishi Tanaka](http://keishitanaka.com)
+- [SOMEDAY'S GONE](http://somedaysgone.com)
+- [VIVA LA ROCK](http://vivalarock.jp/2017/)
+- [呂布カルマ](https://twitter.com/yakamashiwa)
+- [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS)
+- [倉地久美夫](http://hirunohikari.com/kurachikumio.html)
+- [YUKI](http://www.yukiweb.net)
+- [岡本麻弥](https://ja.wikipedia.org/wiki/岡本麻弥)
+- [Lee Ritenour](http://www.universal-music.co.jp/lee-ritenour/)
+- [Larry Carlton & Lee Ritenour - Room 335](https://www.youtube.com/watch?v=JfchN7G-oQk)
+- [T-SQURE](http://www.tsquare.jp)
+- [CASIOPEA](http://www.casiopea.co.jp)
+- [Hatfield And The North](https://www.youtube.com/watch?v=VHPhSTlDHtw)
+- [Dave Weckl, Vinnie Colaiuta, Steve Gadd](https://www.youtube.com/watch?v=czOjnlvHrQU)
+- [ペタルダンス オリジナル サウンドトラック](https://itunes.apple.com/jp/album/ペタル-ダンス-オリジナル-サウンドトラック/id622509913)
+- [umber session tribe](https://www.youtube.com/watch?v=ZRW3ly0kiW8)
+- [MIDORINOMARU](https://www.youtube.com/watch?v=doFccwg7lGY)
+- [Jamiroquai - Automaton](https://www.youtube.com/watch?v=rmlmOk4ubcU)
+- [Jamiroquai - Emergency on Planet Earth](https://www.youtube.com/watch?v=zuR5TYI5Qkg)
+- [SYNCHRONICITY](https://synchronicity.tv)
