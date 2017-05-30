@@ -1,0 +1,28 @@
+---
+layout: single
+title: "11: Send pictures to friends without posting to Instagram"
+description: "親知らず、水泳、Instagramなど"
+date: 2017-05-30 12:00:00 +0900
+duration: "01:37:43"
+audio_url: "http://feeds.soundcloud.com/stream/325124807-oddlife-tokyo-11-send-pictures-to-friends-without-posting-to-instagram.mp3"
+audio_file_size: "70360733"
+track: "325124807"
+---
+Charlie & Taku
+親知らず、水泳、Instagramなどについて話しました。
+
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [親知らず](https://ja.wikipedia.org/wiki/親知らず)
+- [片頭痛](https://ja.wikipedia.org/wiki/片頭痛)
+- [沖永良部島](https://ja.wikipedia.org/wiki/沖永良部島)
+- [大陸棚](https://ja.wikipedia.org/wiki/大陸棚)
+- [最もメンタルヘルスに悪いアプリは「Instagram」](http://gigazine.net/news/20170523-instagram-mental-health/)
+- [n_tamaki](https://www.instagram.com/n_tamaki/)
+- [「Google Home」、日本で年内発売へ](http://www.itmedia.co.jp/news/articles/1705/18/news056.html)
+- [実写『坂道のアポロン』追加キャストにディーン・フジオカ、真野恵里菜ら](http://www.cinra.net/news/20170526-sakamichinoapollon)
+- [メッセージ](http://www.message-movie.jp)
+- [スプリット](http://split-movie.jp)
+- [永い言い訳](http://nagai-iiwake.com)
+- [T2 Trainspotting](http://www.t2trainspotting.jp)
