@@ -1,0 +1,31 @@
+---
+layout: single
+title: "12: A paper money is just paper."
+description: "CASH、Bitcoin、Suicaなど"
+date: 2017-07-16 00:00:00 +0900
+duration: "01:33:48"
+audio_url: "http://feeds.soundcloud.com/stream/332535817-oddlife-tokyo-podcast.mp3"
+audio_file_size: "77653631"
+track: "332535817"
+---
+Charlie & Taku
+CASH、Bitcoin、Suicaなどについて話しました。
+
+ハッシュタグを付けてコメント頂けると嬉しいです。
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [CASH](https://cash.jp)
+- [【インタビュー】「モノを瞬時に現金化」新サービスCASHの仕組みは？光本代表に聞く](https://www.fashionsnap.com/inside/bank-mitsumoto/)
+- [それをお金で買いますか](https://www.amazon.co.jp/%E3%81%9D%E3%82%8C%E3%82%92%E3%81%8A%E9%87%91%E3%81%A7%E8%B2%B7%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E3%83%BB%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E6%96%87%E5%BA%AB-%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%87%E3%83%AB/dp/4150504199/)
+- [メルカリの現金化をめぐる話のまとめ。特殊景品までもが出品される](http://namakeru.com/entry/2017/04/25/132610)
+- [Rapica](http://www.kotsu-city-kagoshima.jp/ticket-summary/rapica/)
+- [交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/%E4%BA%A4%E9%80%9A%E7%B3%BBIC%E3%82%AB%E3%83%BC%E3%83%89%E5%85%A8%E5%9B%BD%E7%9B%B8%E4%BA%92%E5%88%A9%E7%94%A8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
+- [bitcoin](https://www.bitcoin.com/)
+- [71回〜ビットコイン入門！今からでも遅くない仮想通貨（暗号通貨）のざっくりした話〜りんごは踊る、されど並ばず。 #narabazu](http://narabazu.com/2017/0609/71_narabazu.html)
+- [サトシ・ナカモト](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%88%E3%82%B7%E3%83%BB%E3%83%8A%E3%82%AB%E3%83%A2%E3%83%88)
+- [Bitcoin Core integration/staging tree](https://github.com/bitcoin/bitcoin)
+- [Winny](https://ja.wikipedia.org/wiki/Winny)
+- [payday.](https://payday365.jp)
+- [ここらで世界一わかりやすく「FinTechとは何か」を説明しよう。](https://hajipion.com/2153.html)
+- [お金の流れでわかる世界史](https://www.amazon.co.jp/お金の流れでわかる世界の歴史-富、経済、権力・・・・・・はこう「動いた」-大村-大次郎/dp/4041032199)
