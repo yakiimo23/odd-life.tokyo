@@ -1,0 +1,32 @@
+---
+layout: single
+title: "13: What is consciousness for you ?"
+description: "哲学的ゾンビ、人工知能、SoundCloudなどについて話しました。"
+date: 2017-09-01 00:00:00 +0900
+duration: "01:52:57"
+audio_url: "http://feeds.soundcloud.com/stream/340309187-oddlife-tokyo-13-what-is-consciousness-for-you.mp3"
+audio_file_size: "96613768"
+track: "340309187"
+---
+Charlie & Taku
+哲学的ゾンビ、人工知能、SoundCloudなどについて話しました。
+
+ハッシュタグを付けてコメント頂けると嬉しいです。
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [SUZURI](https://suzuri.jp)
+- [ODD STORE](https://oddlife.stores.jp)
+- [哲学的ゾンビ](https://ja.wikipedia.org/wiki/哲学的ゾンビ)
+- [独自言語を開発して会話を始めたロボット、フェイスブックが停止](https://jp.sputniknews.com/world/201708013947295/)
+- [マトリックス](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9_(%E6%98%A0%E7%94%BB))
+- [イヴの時間](http://timeofeve.com/)
+- [A.I.](https://ja.wikipedia.org/wiki/A.I.)
+- [GHOST IN THE SHELL / 攻殻機動隊](https://ja.wikipedia.org/wiki/GHOST_IN_THE_SHELL_/_%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A)
+- [I, Robot](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4,%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88)
+- [シンギュラリティ](https://ja.wikipedia.org/wiki/%E6%8A%80%E8%A1%93%E7%9A%84%E7%89%B9%E7%95%B0%E7%82%B9)
+- [ターミネーター](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)
+- [エクス・マキナ](http://exmachina-movie.jp/)
+
+- [SoundCloud 存続への安堵と、モバイルライフの継続可能性のコストについて](https://news.yahoo.co.jp/byline/taromatsumura/20170814-00074501/)
+- [BitMEX Freak!!](https://btc-fx.fun)
