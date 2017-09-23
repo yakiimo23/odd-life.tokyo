@@ -1,0 +1,27 @@
+---
+layout: single
+title: "14: Next generation is OranGlass"
+description: "Apple Keynoteについて話しました。"
+date: 2017-09-23 19:00:00 +0900
+duration: "01:42:56"
+audio_url: "http://feeds.soundcloud.com/stream/343658054-oddlife-tokyo-14-next-generation-is-oranglass.mp3"
+audio_file_size: "95692717"
+track: "343658054"
+---
+Charlie & Taku
+Appleの発表会について話しました。
+
+ハッシュタグを付けてコメント頂けると嬉しいです。
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [Discord](https://discordapp.com)
+- [Opus](https://ja.wikipedia.org/wiki/Opus_(音声圧縮))
+- [iPhone X/iPhone 8/Apple Watch Series 3/Apple TV 4Kなどが登場した「Apple Special Event」まとめ](http://gigazine.net/news/20170913-apple-special-event-iphone-x/)
+- [Siriに「アンドロイドの方が好き」と言った結果→思わぬ展開に。聞いてはいけない質問が判明](http://www.nk-happy.com/2015/03/30/5234)
+- [AirPods](https://www.apple.com/jp/airpods/)
+- [JPRiDE JPA1 MK-II](https://www.amazon.co.jp/Bluetooth-高音質コーデック対応-APT-X-IP64-防塵防水-CVC6-0-ノイズキャンセリング/dp/B01KQH2AWW)
+- [HDR](https://ja.wikipedia.org/wiki/ハイダイナミックレンジ合成)
+- [4K](https://ja.wikipedia.org/wiki/4K解像度)
+- [『プログレッシブ』と『インターレース』](http://oh-me.com/sub3_a004.html)
+- [ワイヤレス電力伝送](https://ja.wikipedia.org/wiki/ワイヤレス電力伝送)
