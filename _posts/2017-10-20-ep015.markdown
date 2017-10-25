@@ -1,0 +1,28 @@
+---
+layout: single
+title: "15: Monkey-banana."
+description: "HTTPS化、暗号化、電波、さるばなな、ハロウィンなどについて話しました。"
+date: 2017-10-26 00:00:00 +0900
+duration: "01:44:17"
+audio_url: "http://feeds.soundcloud.com/stream/348530547-oddlife-tokyo-15-monkey-banana.mp3"
+audio_file_size: "101525955"
+track: "348530547"
+---
+Charlie & Taku
+
+HTTPS化、暗号化、電波、さるばなな、ハロウィンなどについて話しました。
+
+ハッシュタグを付けてコメント頂けると嬉しいです。
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [Google、10月提供のChrome 62以降で、入力欄のあるすべてのHTTP接続ページで警告を表示](https://internet.watch.impress.co.jp/docs/news/1057563.html)
+- [共通鍵暗号と公開鍵暗号の違い](https://cspssl.jp/guide/key.php)
+- [電波ってなあに？](https://www.nttdocomo.co.jp/support/area/know/)
+- [回折](https://ja.wikipedia.org/wiki/回折)
+- [二重スリット実験](https://ja.wikipedia.org/wiki/二重スリット実験)
+- [渡辺直美Instagram](https://www.instagram.com/watanabenaomi703/?hl=ja)
+- [ジンバル](https://ja.wikipedia.org/wiki/ジンバル)
+- [アカルイミライ](https://ja.wikipedia.org/wiki/アカルイミライ)
+- [MATSURI STUDIO NEWS](http://www.mukaishutoku.com/main.html)
+- [METAFIVE](http://sp.wmg.jp/metafive/)
