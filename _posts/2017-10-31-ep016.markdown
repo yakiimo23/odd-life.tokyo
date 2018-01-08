@@ -1,0 +1,14 @@
+---
+layout: single
+title: "16: Japanese wedding industry w/ Ryo Katsumata"
+description: "Ryo Katsumataさんをゲストにハロウィン、音楽、ウェディング業界などについて話しました。"
+date: 2018-1-9 00:00:00 +0900
+duration: "01:38:18"
+audio_url: "http://feeds.soundcloud.com/stream/380678027-oddlife-tokyo-16-japanese-wedding-industry-w-ryo-katsumata.mp3"
+audio_file_size: "91752935"
+track: "380678027"
+---
+Charlie & Taku w/ Ryo([@acairojuni](https://twitter.com/acairojuni))
+
+遅くなりましたが、2017/10/31のハロウィンにレコーディングしたものです。
+今回はCharlieの同僚であるRyo Katsumataさんをゲストに、ハロウィン、音楽、ウェディング業界などについて話しました。
