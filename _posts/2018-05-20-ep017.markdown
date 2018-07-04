@@ -1,0 +1,25 @@
+---
+layout: single
+title: "17: A Realism art is impressive"
+description: "FES、美術などについて話しました。"
+date: 2018-7-5 00:00:00 +0900
+duration: "01:02:01"
+audio_url: "http://feeds.soundcloud.com/stream/467283459-oddlife-tokyo-17-a-realism-art-is-impressive.mp3"
+audio_file_size: "44656557"
+track: "467283459"
+---
+Charlie & Taku
+
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [Misreading Chat](https://misreading.chat)
+- [WALK INN FES! 2018](http://ongaku-heiya.com/walkinnfes/)
+- [GLARE SOUNDS PROJECTION](https://glaresoundsprojection.wordpress.com)
+- [GOOD NEIGHBORS JAMBOREE 2018](http://goodneighborsjamboree.com/2018/)
+- [ホキ美術館](https://www.hoki-museum.jp)
+- [どうせなにもみえない―諏訪敦絵画作品集](https://www.amazon.co.jp/どうせなにもみえない―諏訪敦絵画作品集-諏訪-敦/dp/4763011308)
+- [聖なるもの―野田弘志画集](https://www.amazon.co.jp/聖なるもの―野田弘志画集-野田-弘志/dp/4763014099)
+- [ミュシャ展](http://www.mucha2017.jp)
+- [特別企画展「ミュシャ展～運命の女たち～」](https://www.city.kagoshima.lg.jp/artmuseum/exhibition-h30mucha-pre.html)
+- [落合陽一、山紫水明∽事事無碍∽計算機自然](https://gyre-omotesando.com/artandgallery/yoichi-ochiai/)
