@@ -118,7 +118,7 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 artwork: /images/artwork.jpg
 keywords: tech,technology,oddlife,web,develop,software,philosophy,music,japan
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
