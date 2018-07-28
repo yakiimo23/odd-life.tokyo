@@ -1,0 +1,20 @@
+---
+layout: single
+title: "18: Music Life Style"
+description: "アレルギー、フジロックなどについて話しました。"
+date: 2018-7-28 00:00:00 +0900
+duration: "48:02"
+audio_url: "http://feeds.soundcloud.com/stream/477763533-oddlife-tokyo-18-music-life-style.mp3"
+audio_file_size: "34586039"
+track: "477763533"
+---
+Charlie & Taku
+
+Taku の所属するバンド GLARE SOUNDS PROJECTION が FUJI ROCK FESTIVAL に出演することになりました！
+
+Twitter ハッシュタグ #oddlifetokyo
+
+## Show Notes
+- [FUJI ROCK FESTIVAL'18](http://www.fujirockfestival.com)
+- [小正醸造　CM「136年目、はじまる」](https://youtu.be/CgEDBHe3VBc)
+- [GLARE SOUNDS PROJECTION](https://glaresoundsprojection.wordpress.com)
