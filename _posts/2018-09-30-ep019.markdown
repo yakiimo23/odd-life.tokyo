@@ -1,0 +1,27 @@
+---
+layout: single
+title: "19: Real artists ship"
+description: "CDリリース、オンラインサロン、Podcastコミュニティなどについて話しました。"
+date: 2018-10-1 20:00:00 +0900
+duration: "01:57:03"
+audio_url: "http://feeds.soundcloud.com/stream/507617157-oddlife-tokyo-19-real-artists-ship.mp3"
+audio_file_size: "84757831"
+track: "507617157"
+---
+Charlie & Taku
+
+2ヶ月ぶりの収録でした。
+今回はCDリリース、オンラインサロン、Podcastコミュニティなどについて話しました。
+
+ODD LIFEの応援お願いします！応援はこちらから。
+限定コンテンツも作っていきたいなと思っています。
+https://www.patreon.com/oddlife
+
+## Show Notes
+- [GLARE SOUNDS PROJECTION - Blink in the dark night [YouTube Music Sessions at "ROOKIE A GO-GO"]](https://youtu.be/teWbNRlcrug)
+- [静かな生活](https://odd-life.shop/items/5ba8fd22a6e6ee0bb3000046)
+- [DMMオンラインサロン](https://lounge.dmm.com)
+- [平成が終わルンです](http://talking-tshirts.com/heiseigaowarundesu/)
+- [@ShunInanuma](https://twitter.com/ShunInanuma)
+- [YOSHIYUKI OKUYAMA](http://y-okuyama.com)
+- [民間人初の月旅行](https://toyokeizai.net/articles/-/238271)
