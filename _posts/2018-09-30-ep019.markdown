@@ -4,9 +4,8 @@ title: "19: Real artists ship"
 description: "CDリリース、オンラインサロン、Podcastコミュニティなどについて話しました。"
 date: 2018-10-1 20:00:00 +0900
 duration: "01:57:03"
-audio_url: "http://feeds.soundcloud.com/stream/507617157-oddlife-tokyo-19-real-artists-ship.mp3"
 audio_file_size: "84757831"
-track: "507617157"
+anchor: "19-Real-artists-ship-e2aoon"
 ---
 Charlie & Taku
 
