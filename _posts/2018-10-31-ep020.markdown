@@ -1,0 +1,18 @@
+---
+layout: single
+title: "20: ODD LIFE ロゴのデザイン秘話"
+description: "EUのリンク税や、AdobeMAX、ODD LIFE のロゴ秘話について語りました。"
+date: 2018-10-31 12:00:00 +0900
+duration: "01:29:40"
+audio_file_size: "84757831"
+anchor: "20-e2gir1"
+---
+EUのリンク税や、AdobeMAX、ODD LIFE のロゴ秘話について語りました。
+
+ODD LIFEの応援お願いします！応援はこちらから。
+https://www.patreon.com/oddlife
+
+## Notes
+- [GoogleはEUでGoogle PlayやGoogle製アプリを標準搭載する端末にライセンス料を課す方針](https://gigazine.net/news/20181017-charging-android-using-apps-europe/)
+- [「リンク税」などEUがデジタル著作権法を改正する「改正著作権指令案」に注目しなければならない理由](https://gigazine.net/news/20180905-why-should-care-european-copyright-reform/)
+- [涙。最新版のPhotoshop CCで、ついに｢連続コマンドZ｣ができるように](https://www.gizmodo.jp/2018/10/adobe-command-z.html)
