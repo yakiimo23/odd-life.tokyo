@@ -54,7 +54,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : feed-oddlife.rss
+  path                   : https://anchor.fm/s/29d6348/podcast/rss
 
 # Social Sharing
 twitter:
