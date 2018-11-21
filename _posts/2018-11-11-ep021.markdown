@@ -1,0 +1,23 @@
+---
+layout: single
+title: "21: ガンガライザー"
+description: "Uber Eats、復興特別所得税、最近読んだ小説などについて話しました。"
+date: 2018-11-22 08:00:00 +0900
+duration: "01:14:47"
+audio_file_size: "54351350"
+anchor: "21-e2kcs5"
+---
+Uber Eats、復興特別所得税、最近読んだ小説などについて話しました。
+
+ODD LIFEの応援お願いします！応援はこちらから。
+https://www.patreon.com/oddlife
+
+Twitterハッシュタグ #oddlifetokyo
+
+## Notes
+- [スタバがUber Eats導入、LINEとのタッグもーーデリバリーや事前注文・決済を強化へ](https://jp.techcrunch.com/2018/11/08/starbucks-uber-eats-line/)
+- [復興特別所得税](https://www.nta.go.jp/publication/pamph/shotoku/fukko_tokubetsu/index.htm)
+- [米国セブンイレブン、レジなし店舗を導入](https://jp.techcrunch.com/2018/11/06/2018-11-05-7-eleven-is-bringing-cashier-less-payments-to-its-stores/)
+- [死ぬこと以外かすり傷](https://www.amazon.co.jp/dp/B07G11624W/)
+- [学びを結果に変えるアウトプット大全](https://www.amazon.co.jp/dp/B07FZWZPDS/)
+- [極夜行](https://www.amazon.co.jp/dp/B079LWHKYB/)
