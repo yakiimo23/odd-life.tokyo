@@ -1,0 +1,32 @@
+---
+layout: single
+title: "22: Temptation of discount - yayoc"
+description: "フロントエンド、SSR、Macbook Proなどについて話しました。"
+date: 2018-12-07 12:00:00 +0900
+duration: "01:50:30"
+audio_file_size: "80066384"
+anchor: "22-Temptation-of-discount---yayoc-e2n984"
+---
+今回は [@yayoc](https://twitter.com/yayoc_) ゲストに迎えて珍しくテックなことを話しました
+
+## Notes
+- [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+- [Netflix JavaScript Talks - Performance Signup in React & Transactional Apps with Redux](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV8oTJ8OZ5S0%26t%3D11m30s%26fbclid%3DIwAR26h9hrWID3HNfgteI4YN42KPwCJPaItWF57GlNGhe0OnPB2jA2xa-KxVA&h=AT1naGvQv3AyUqYMTYCi4GN4ywVdH9YD3_USE5TMU9xK6lk8vTBKxze22wlyZVq2wbz7jIltE82xGHLq_JRqzFxfo0W1PnQR3Vq4gpsTKanN7KSq8kWRkBccatbcUOUQbZcWwgvr)
+- [Vue Fes Japan 2018](https://vuefes.jp)
+- [noteをNuxt.jsで再構築した話](https://note.mu/r82/n/ne217ba36d233)
+- [CLOUD NATIVE](https://www.cncf.io)
+- [Ableton](https://www.ableton.com)
+
+ODD LIFE STYLEの応援を常に募集中です！
+
+### 特典
+- Charlie や Taku と Discord でチャットできます
+- パトロン限定コンテンツも配信
+
+応援はこちらから。
+[https://www.patreon.com/oddlife](https://www.patreon.com/oddlife)
+
+Twitterハッシュタグ #oddlifetokyo
+
+エピソードはいろんなプラットフォームで視聴可能です。
+Anchor: [https://anchor.fm/odd-life-style/episodes/22-Temptation-of-discount---yayoc-e2n984](https://anchor.fm/odd-life-style/episodes/22-Temptation-of-discount---yayoc-e2n984)
